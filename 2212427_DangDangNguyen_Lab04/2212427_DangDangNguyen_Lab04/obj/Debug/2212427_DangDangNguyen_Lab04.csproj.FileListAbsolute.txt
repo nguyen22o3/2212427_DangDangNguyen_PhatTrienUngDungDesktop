@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\bin\Debug\2212427_DangDangNguyen_Lab04.exe.config
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\bin\Debug\2212427_DangDangNguyen_Lab04.exe
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\bin\Debug\2212427_DangDangNguyen_Lab04.pdb
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\2212427_DangDangNguyen_Lab04.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\_2212427_DangDangNguyen_Lab04.Properties.Resources.resources
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\_2212427_DangDangNguyen_Lab04.QuanLyThongTinSV.resources
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\2212427_DangDangNguyen_Lab04.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\2212427_DangDangNguyen_Lab04.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\2212427_DangDangNguyen_Lab04.exe
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab04\2212427_DangDangNguyen_Lab04\obj\Debug\2212427_DangDangNguyen_Lab04.pdb
