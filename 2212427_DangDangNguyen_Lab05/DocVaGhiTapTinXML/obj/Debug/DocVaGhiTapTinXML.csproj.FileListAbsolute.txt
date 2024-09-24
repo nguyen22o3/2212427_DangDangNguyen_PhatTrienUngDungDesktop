@@ -1,0 +1,7 @@
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\bin\Debug\DocVaGhiTapTinXML.exe.config
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\bin\Debug\DocVaGhiTapTinXML.exe
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\bin\Debug\DocVaGhiTapTinXML.pdb
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\obj\Debug\DocVaGhiTapTinXML.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\obj\Debug\DocVaGhiTapTinXML.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\obj\Debug\DocVaGhiTapTinXML.exe
+C:\Users\PC602\source\repos\2212427_DangDangNguyen_Lab05\DocVaGhiTapTinXML\obj\Debug\DocVaGhiTapTinXML.pdb
