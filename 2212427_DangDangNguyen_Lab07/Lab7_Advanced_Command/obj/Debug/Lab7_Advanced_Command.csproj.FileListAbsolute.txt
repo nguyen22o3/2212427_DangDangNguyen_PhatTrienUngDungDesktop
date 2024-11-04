@@ -1,0 +1,10 @@
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+C:\Users\84792\source\repos\2212427_DangDangNguyen_Lab07\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
