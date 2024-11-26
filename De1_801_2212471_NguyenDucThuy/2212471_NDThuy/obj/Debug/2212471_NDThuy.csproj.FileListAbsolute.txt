@@ -1,0 +1,11 @@
+Z:\2212471_NDThuy\2212471_NDThuy\bin\Debug\2212471_NDThuy.exe.config
+Z:\2212471_NDThuy\2212471_NDThuy\bin\Debug\2212471_NDThuy.exe
+Z:\2212471_NDThuy\2212471_NDThuy\bin\Debug\2212471_NDThuy.pdb
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\2212471_NDThuy.csproj.AssemblyReference.cache
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\_2212471_NDThuy.MONHOC.resources
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\_2212471_NDThuy.Properties.Resources.resources
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\_2212471_NDThuy.QuanLyMonHoc.resources
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\2212471_NDThuy.csproj.GenerateResource.cache
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\2212471_NDThuy.csproj.CoreCompileInputs.cache
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\2212471_NDThuy.exe
+Z:\2212471_NDThuy\2212471_NDThuy\obj\Debug\2212471_NDThuy.pdb
