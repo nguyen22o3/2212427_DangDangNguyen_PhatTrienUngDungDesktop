@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42B33008-E5F6-4632-A908-F540878E6C33}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DesktopApss</RootNamespace>
+    <AssemblyName>DesktopApss</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Giảm giá.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Giảm giá.Designer.cs">
+      <DependentUpon>Add Giảm giá.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTheLoai.Designer.cs">
+      <DependentUpon>AddTheLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chọn giá.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chọn giá.Designer.cs">
+      <DependentUpon>Chọn giá.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form đổi mật khẩu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form đổi mật khẩu.Designer.cs">
+      <DependentUpon>Form đổi mật khẩu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý kho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý kho.Designer.cs">
+      <DependentUpon>Quản lý kho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chi tiết hoá đơn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chi tiết hoá đơn.Designer.cs">
+      <DependentUpon>Chi tiết hoá đơn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAD.Designer.cs">
+      <DependentUpon>FrmAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBangDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBangDia.Designer.cs">
+      <DependentUpon>frmBangDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Màn hình đăng nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Màn hình đăng nhập.Designer.cs">
+      <DependentUpon>Màn hình đăng nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý khách hàng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý khách hàng.Designer.cs">
+      <DependentUpon>Quản lý khách hàng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý nhân viên.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý nhân viên.Designer.cs">
+      <DependentUpon>Quản lý nhân viên.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Account.cs" />
+    <Compile Include="Resources\Modify.cs" />
+    <Compile Include="Thông tin nhân viên.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thông tin nhân viên.Designer.cs">
+      <DependentUpon>Thông tin nhân viên.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Utilities.cs" />
+    <EmbeddedResource Include="Add Giảm giá.resx">
+      <DependentUpon>Add Giảm giá.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTheLoai.resx">
+      <DependentUpon>AddTheLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chọn giá.resx">
+      <DependentUpon>Chọn giá.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form đổi mật khẩu.resx">
+      <DependentUpon>Form đổi mật khẩu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý kho.resx">
+      <DependentUpon>Quản lý kho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chi tiết hoá đơn.resx">
+      <DependentUpon>Chi tiết hoá đơn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAD.resx">
+      <DependentUpon>FrmAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBangDia.resx">
+      <DependentUpon>frmBangDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Màn hình đăng nhập.resx">
+      <DependentUpon>Màn hình đăng nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Quản lý khách hàng.resx">
+      <DependentUpon>Quản lý khách hàng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý nhân viên.resx">
+      <DependentUpon>Quản lý nhân viên.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thông tin nhân viên.resx">
+      <DependentUpon>Thông tin nhân viên.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
